@@ -17,59 +17,59 @@ Using Social Collaboration Ninja on Your Mobile Device (iPhone Demo)
 Sales Collaboration
 ========
 
-1
+![1](https://i.imgur.com/9u63i6x.jpg)
 
 **Use the "@" to communicate with other SuiteCRM and SugarCRM users**
 
-2
+![2](https://i.imgur.com/1HXzRzN.jpg)
 
 **Insert Attachments and Photos**
 
-3
+![3](https://i.imgur.com/0g4T2zX.jpg)
 
 **Drag and Drop Attachments and Photos**
 
-4
+![4](https://i.imgur.com/bCrsrru.jpg)
 
 **Respond and Reply**
 
-5
+![5](https://i.imgur.com/AEpUZ6u.jpg)
 
 **Set Employee Avatars or Photos**
 
-6
+![6](https://i.imgur.com/gUmlCdB.jpg)
 
 **Project Management Collaboration**
 Work in realtime on project and project tasks in SuiteCRM.
 
-7
+![7](https://i.imgur.com/qPVYJSL.png)
 
 **Customer Support Collaboration**
 Bring in other folks into customer service issues, and escalate if needed.
 
-8
+![8](https://i.imgur.com/e50K37F.png)
 
 **Configure Email Notification Settings**
 
-9
+![9](https://i.imgur.com/H1C3uEY.png)
 
 **Notify multiple users via email as comments are made**
 Configure how other users are notified and how owners of records are notified.
 
-10
+![10](https://i.imgur.com/yE7pGer.png)
 
 **Inbound Emails Sent to CRM Users**
 
-11
+![11](https://i.imgur.com/6b0HsDO.png)
 
 **Disable and Enable Modules**
 Configure which modules you want to give the ability to comment on records in the Admin section of CRM.
 
-12
+![12](https://i.imgur.com/vMez64j.png)
 
 Choose which modules you want to disable or enable.
 
-13
+![13](https://i.imgur.com/HWvXrJP.png)
 
 **Custom Modules, too!**
 
